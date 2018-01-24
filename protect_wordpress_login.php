@@ -16,12 +16,12 @@ Last Updated: 27/01/2018
 
 /**
  * define here what ever key would you like to use in your wp-login page
- * http://yoursite.com/?your_key=your_value
+ * http://yoursite.com/wp-login.php?your_key=your_value
  */
 define('SH_CUSTOM_KEY','your_key');
 /**
  * define here what ever key would you like to use in your wp-login page
- * http://yoursite.com/?your_key=your_value
+ * http://yoursite.com/wp-login.php?your_key=your_value
  */
 define('SH_CUSTOM_VAL','your_value');
 
